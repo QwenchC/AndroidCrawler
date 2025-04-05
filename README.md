@@ -5,7 +5,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-orange)
 ![License](https://img.shields.io/badge/许可-MIT-lightgrey)
 
-Android Crawler 是一款功能强大的移动端网络内容抓取与分析应用，专为学习和研究目的设计。它允许用户提取、分析和存储来自互联网的公开内容，同时集成了多搜索引擎支持和AI分析能力(文本生成api来源于https://github.com/pollinations/pollinations)。
+Android Crawler 是一款功能强大的移动端网络内容抓取与分析应用，专为学习和研究目的设计。它允许用户提取、分析和存储来自互联网的公开内容，同时集成了多搜索引擎支持和AI分析能力,文本生成api来源于https://github.com/pollinations/pollinations。
 
 ## 📱 功能特点
 
