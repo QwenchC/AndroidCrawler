@@ -15,21 +15,41 @@ Android Crawler 是一款功能强大的移动端网络内容抓取与分析应�
 - **特定网站优化**：针对常见网站（如知乎、CSDN等）提供特别的内容提取规则
 - **重定向链接处理**：智能处理各种搜索引擎的重定向链接
 - **Robots.txt 合规性**：尊重并遵守网站爬虫规则
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/Screenshot_01.jpg" alt="网页爬虫" width="250"/></td>
+  </tr>
+</table>
 
 ### 🔍 多搜索引擎支持
 - **搜索引擎切换**：支持多种搜索引擎（DuckDuckGo、搜狗）
 - **搜索结果处理**：能够正确解析搜索引擎重定向链接
 - **简洁用户界面**：直观的搜索结果展示
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/Screenshot_02.jpg" alt="搜索引擎" width="250"/></td>
+  </tr>
+</table>
 
 ### 🤖 AI联网搜索
 - **基于搜索结果的AI回答**：整合搜索结果，生成连贯的AI回答
 - **内容聚合**：从多个来源提取信息，提供全面的回答
 - **实时流式响应**：采用流式输出，提高用户体验
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/Screenshot_03.jpg" alt="AI联网搜索" width="250"/></td>
+  </tr>
+</table>
 
 ### 📊 数据处理和展示
 - **结构化内容展示**：将爬取的内容以清晰的方式呈现
 - **图片预览**：支持图片显示和链接复制
 - **文本内容复制**：方便用户复制和分享爬取的文本内容
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/Screenshot_04.jpg" alt="图片爬取" width="250"/></td>
+  </tr>
+</table>
 
 ## 🛠️ 技术栈
 
